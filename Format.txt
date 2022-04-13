@@ -1,0 +1,91 @@
+Font :
+Menu-bar:
+font-family: 'Roboto', sans-serif;
+Header:
+font-family: 'Oswald', sans-serif;
+paragraph:
+font-family: 'Open Sans', sans-serif;
+
+
+Color:
+Text-color:#0f2f44
+
+
+
+Background:
+#1300c0 -Blue
+#d00000 -Red
+
+
+
+
+font-size:
+
+
+background: rgba(222, 212, 255, 0.602);
+
+
+<div class="owl-carousel carousel-shop-detail-inner owl-theme owl-loaded owl-drag" id="syncChild">
+                <!-- Item 1--><!-- Item 2--><!-- Item 3--><!-- Item 4--><!-- Item 5-->
+                <!-- Item 6--><!-- Item 7--><!-- Item 8--><!-- Item 9-->
+                <div class="owl-stage-outer">
+                    <div class="owl-stage" >
+                        <div class="owl-item" style="width: 111.25px;">
+                            <div class="item">
+                                <img src="images/images1/shop-1.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 111.25px;">
+                            <div class="item">
+                                <img src="images/images1/shop-2.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 111.25px;">
+                            <div class="item">
+                                <img src="images/images1/shop-3.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 111.25px;">
+                            <div class="item">
+                                <img src="images/images1/shop-4.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="owl-item" style="width: 111.25px;">
+                            <div class="item">
+                                <img src="images/images1/shop-5.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="owl-item active" style="width: 111.25px;">
+                            <div class="item">
+                                <img src="images/images1/shop-6.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="owl-item active" style="width: 111.25px;">
+                            <div class="item">
+                                <img src="images/images1/shop-7.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="owl-item active" style="width: 111.25px;">
+                            <div class="item">
+                                <img src="images/images1/shop-8.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="owl-item active synced" style="width: 111.25px;">
+                            <div class="item">
+                                <img src="images/images1/shop-9.jpg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="owl-nav disabled">
+                    <button type="button" role="presentation" class="owl-prev">
+                        <span aria-label="Previous">‹</span>
+                    </button>
+                    <button type="button" role="presentation" class="owl-next">
+                        <span aria-label="Next">›</span>
+                    </button>
+                </div>
+                <div class="owl-dots disabled">
+
+                </div>
+            </div>
